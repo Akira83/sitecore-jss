@@ -1,0 +1,11 @@
+name: homepage
+
+fields:
+  pageTitle: Home Page | Sitecore JSS
+placeholders:
+  jss-main:
+  - componentName: HomePage
+    fields:
+      heading: Hello World Homepage
+      content: |
+        <p>This content should come from Server side</p>
